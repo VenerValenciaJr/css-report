@@ -1,0 +1,17 @@
+body {
+    background-color: #d9e9ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.button {
+    padding: 15px 35px;
+    background-color: steelblue;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}

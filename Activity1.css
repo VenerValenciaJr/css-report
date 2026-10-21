@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+    font-family: "Times New Roman";
+}
+
+h1 {
+    color: brown;
+    text-align: left;
+}
+
+.orange {
+    background-color: orange;
+    color: rgb(75, 75, 184);
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.bordered {
+    border: 2px solid red;
+}
+
+.green {
+    color: rgb(0, 142, 0);
+}
+
+.small {
+    color: tan;
+    text-align: center;
+    font-size: 13px;
+}

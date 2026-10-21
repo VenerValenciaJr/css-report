@@ -1,0 +1,26 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: steelblue;
+    color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 12px;
+}
+
+tr:last-child {
+    background-color: pink;
+}

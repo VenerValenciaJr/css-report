@@ -1,0 +1,25 @@
+nav {
+    background-color: #202040;
+    padding: 18px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+.material-icons {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+a:hover {
+    color: #00e5ff;
+}
+
+a:active {
+    color: #ff4081;
+}
